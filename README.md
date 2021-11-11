@@ -6,12 +6,13 @@
   ### Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usesage)
-  * [Credits](#credits)
   * [License](#license)
 
   ## Description
-  This application's purpose is to allow you to quickly create notes with a title and description. It will save your notes to the database. It will load all of your notes, allow you to edit and delete them.
+  This application's purpose is to allow you to quickly create notes with a title and description. It will save your notes to the database. It will load all of your notes, allow     you to edit and delete them.
+  
+    ## Click for Demo
+  [![Demo](./Screenshot.png)](https://youtu.be/L_V0GmzCbyY)
 
   ## Installation
   clone the repo. enter "node server.js" into the console from the root directory. This will start the server and allow you to start using the application.
